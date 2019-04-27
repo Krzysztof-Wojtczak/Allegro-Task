@@ -12,6 +12,6 @@ In your browser type:
 http://localhost:8080/mozaika?losowo=Z&rozdzielczosc=XxY&zdjecia=URL1,URL2,URL3...
 
 where:
-losowo - optional parameter, if Z = 1 images places are random. Otherwise bigger images are placed in (0,0) - top left corner, smaller images fill empty space 
+losowo - optional parameter, if Z = 1 images places are random. Otherwise bigger images are placed in (0,0) - top left corner, smaller images fill empty space. 
 rozdielczosc - optional parameter, defines width and height. Default is 2048x2048
 URL1,URL2,URL3... image adresses separated by commas (no empty space), that will be in mosaic.
